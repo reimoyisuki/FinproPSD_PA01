@@ -27,7 +27,8 @@ Untuk menggunakan LED Dot Matrix Controller yang telah diprogram dengan ModelSim
 Setelah itu, output yang dihasilkan adalah matriks LED 8x8, yang menggambarkan karakter atau simbol yang diminta. Output ini dapat dilihat melalui simulasi di ModelSim. Ketika simulasi berjalan dengan sukses, pola yang muncul di layar simulasi ModelSim akan mencocokkan tampilan yang diinginkan pada matriks LED. Dengan menggunakan input berupa kode ASCII yang tepat, pengguna dapat melihat simbol atau teks yang sesuai ditampilkan secara visual pada output matriks LED.
 
 ## STATE DIAGRAM
-
+![image](https://hackmd.io/_uploads/rkk74SX4yx.png)
 
 
 ## TESTING & RESULT
+![Screenshot 2024-12-08 223802](https://hackmd.io/_uploads/B14RRE74kg.png)
